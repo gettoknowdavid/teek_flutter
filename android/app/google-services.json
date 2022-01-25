@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "683595892215",
+    "project_id": "teek-firebase",
+    "storage_bucket": "teek-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683595892215:android:e54b0a99f61f6b9d089af2",
+        "android_client_info": {
+          "package_name": "com.example.teek_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683595892215-jaosfjqpc5pds6e8joc246gsbecqrc0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teek_flutter",
+            "certificate_hash": "8c37849d700f4290f7164d76a53cef6c4264e6ad"
+          }
+        },
+        {
+          "client_id": "683595892215-tncllcc0cgv6ujmnqmrhomn7i84sfqfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXypustoubLrWJ6voTXFqYMOswoe_Onh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683595892215-tncllcc0cgv6ujmnqmrhomn7i84sfqfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
